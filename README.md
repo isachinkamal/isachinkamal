@@ -5,3 +5,5 @@
 💬 **Ask me about:** Contact Center Testing, API Testing, Cyara, Empirix Hammer, Genesys PureCloud, AWS Connect, Jira, Confluence, Azure DevOps
 📫 **Reach me:** [LinkedIn]https://www.linkedin.com/in/sachinkamal
 ⚡ **Fun fact:** 14+ years in automation testing
+🌱 **Domain :** Wealth and Asset Management, Banking and Financial Services
+
